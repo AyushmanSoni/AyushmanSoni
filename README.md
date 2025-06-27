@@ -90,7 +90,7 @@ Here are some of the technologies I've been working with:
     <td width="50%">
       <h3 align="center">GAN - Ecoview Transform</h3>
       <p align="center">
-        <img src="YOUR_PROJECT_IMAGE_URL_2" alt="Project 2 Image" width="400"/>
+        <img src="Gemini_Generated_Image_28bux928bux928bu.png" alt="Project 2 Image" width="400"/>
       </p>
       <p align="center">
         GAN-EchoViewTransform is a deep learning project that utilizes Generative Adversarial Networks (GANs) to transform echocardiographic views.
