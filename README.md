@@ -64,37 +64,46 @@ Here are some of the technologies I've been working with:
 
 ---
 
+---
+
 ### 🚀 My Projects
 
 <table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project Title 1</h3>
+  <tr>
+    <td width="50%">
+      <h3 align="center">SyncSoc</h3>
       <p align="center">
-        A brief but engaging description of your project. What does it do? What problem does it solve?
-        <br>
-        <br>
-        <strong>Tech Stack:</strong> React, Node.js, Express, MongoDB
-        <br>
-        <br>
-        <a href="[LINK_TO_YOUR_REPO]" target="_blank">View on GitHub</a> | 
-        <a href="[LINK_TO_LIVE_DEMO]" target="_blank">Live Demo</a>
+        <img src="Screenshot 2025-06-27 171028.png" alt="Project 1 Image" width="400"/> 
       </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project Title 2</h3>
+      <p align="center">
+        A dynamic platform for managing societies, events, and fests.
+        <br>
+ 
+        <strong>Tech Stack:</strong> React, Node.js, Express, MongoDB
+        <br>
+
+        <a href="https://github.com/AyushmanSoni/SyncSoc" target="_blank">View on GitHub</a>
+        <br>
+        <a href="https://curious-bunny-3bacff.netlify.app/" target="_blank">Live Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">GAN - Ecoview Transform</h3>
       <p align="center">
-        A brief but engaging description of your project. What does it do? What problem does it solve?
-        <br>
-        <br>
-        <strong>Tech Stack:</strong> Python, Flask, MySQL, AWS S3
-        <br>
-        <br>
-        <a href="[LINK_TO_YOUR_REPO]" target="_blank">View on GitHub</a> | 
-        <a href="[LINK_TO_LIVE_DEMO]" target="_blank">Live Demo</a>
+        <img src="YOUR_PROJECT_IMAGE_URL_2" alt="Project 2 Image" width="400"/>
       </p>
-    </td>
-  </tr>
+      <p align="center">
+        GAN-EchoViewTransform is a deep learning project that utilizes Generative Adversarial Networks (GANs) to transform echocardiographic views.
+        <br>
+    
+        <strong>Tech Stack:</strong> Python, Flask, MySQL, AWS S3
+        <br>
+
+        <a href="https://github.com/AyushmanSoni/GAN-EchoViewTransform" target="_blank">View on GitHub</a>
+    
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
